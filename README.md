@@ -14,7 +14,7 @@ I’m a passionate C# Developer driven by creating IT solutions that simplify li
 
 ## Core Competencies
 
-- **Languages & Frameworks:** C#, Python, ASP.NET Core, MVC, Windows Forms, HTML/CSS/JavaScript, SQL, MySQL, Unity  
+- **Languages & Frameworks:** C#, Python, ASP.NET Core, MVC, Entity Framework Core, Windows Forms, HTML/CSS/JavaScript, SQL, MySQL, Unity  
 - **Tools & Platforms:** Git, Postman, phpMyAdmin, Bootstrap, FreeCAD, 1C-Bitrix  
 - **Practices:** Unit Testing, OOP, UX/UI Fundamentals
 
