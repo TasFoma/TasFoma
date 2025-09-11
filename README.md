@@ -1,73 +1,53 @@
-## Hi there 👋
-# I'm Anastasia Fomina 👩‍💻
-
-*Novosibirsk, Russia* | Telegram: [@TasFoma](https://t.me/TasFoma) | Email: [nastyafom92@mail.ru](mailto:nastyafom92@mail.ru)  
-[GitHub Profile](https://github.com/TasFoma)
-
+Анастасия Фомина
+C# / .NET Developer 👩‍💻
 ---
-
-## About Me
-
-I’m a passionate C# Developer driven by creating IT solutions that simplify life. I thrive on solving challenging problems and working collaboratively. With a strong foundation in Applied Mathematics and Computer Science, I confidently deliver software using C#, Python, and ASP.NET Core. Currently open for remote opportunities and eager to grow within an ambitious team.
-
+Новосибирск, Россия
+📞 Телефон: +7 (996) 380-73-02
+✉️ Email: anastasiia.fomina.dev@mail.ru
+📱 Telegram: t.me/TasFoma
+💻 GitHub: github.com/TasFoma 
 ---
-
-## Core Competencies
-
-- **Languages & Frameworks:** C#, Python, ASP.NET Core, MVC, Entity Framework Core, Windows Forms, HTML/CSS/JavaScript, SQL, MySQL, Unity  
-- **Tools & Platforms:** Git, Postman, phpMyAdmin, Bootstrap, FreeCAD, 1C-Bitrix  
-- **Practices:** Unit Testing, OOP, UX/UI Fundamentals
-
+## О себе
+C#-разработчик с 1 годом коммерческого опыта разработки медицинского ПО. Настроена на решение сложных задач и быстрый профессиональный рост в продуктивной команде. Имею сильный практический бэкграунд в полном цикле разработки: от backend на ASP.NET Core до desktop-приложений на WinForms. Ищу возможность применять и углублять знания в современных технологиях стека .NET.
 ---
-
-## Professional Experience
-
-**C# Developer**  
-*MIS Medical Assistant* | May 2024 – May 2025  
-- Developed software and website using C#, ASP.NET Core MVC, WinForms, and MySQL  
-- Built chatbot, doctor scheduling system, price lists, and UI interfaces ([clinica-v-online.ru](https://clinica-v-online.ru))  
-- Created operator chat application, automated reports, and worked with XML data  
-- Enhanced and optimized legacy codebases
-
+## Опыт работы
+C# Developer | МИС "Медицинский помощник" | Май 2024 — Май 2025
+- Разработка и поддержка модулей медицинской информационной системы
+- Разработала с нуля и внедрила модуль расписания врачей и онлайн-записи на ASP.NET Core MVC, что сократило время формирования расписания на 30%.
+- Создала desktop-приложение для операторов чата на Windows Forms, интегрированное с БД MySQL, что позволило обрабатывать на 50% больше сообщений в день.
+- Реализовала систему генерации отчетов в XML и PDF с использованием Entity Framework Core, автоматизировав еженедельную работу бухгалтерии.
+- Оптимизировала 15+ SQL-запросов, что повысило общую производительность системы на 15%.
+- Участвовала в полном цикле разработки: от сбора требований до тестирования и deployment.
 ---
-
-## Selected Projects
-
-### Vector Graphics Editor  
-*Feb 2024 – May 2024* | Stack: C#, WinForms, Unit Tests  
-- Implemented algorithms for drawing shapes and designing the UI  
-- Collaborated effectively in a team environment
-
-### Eye-Tracking Computer Control  
-*Feb 2023 – May 2024* | Stack: Python, PyQt6, mediapipe, OpenCV  
-- Developed algorithms for eye movement recognition with webcam input  
-- Designed UI/UX, performed testing, code optimization  
-- Defended final qualification work on this project
-
-### Oberbek Pendulum (Virtual Lab)  
-*Oct 2022 – Mar 2023* | Stack: C#, Unity, .NET, FreeCAD  
-- Served as team lead, worked on algorithm design and UI  
-- Presented research at "NGTU PIERE 2022" international conference  
-- Published in Vestnik MGPU journal (Informatics and Informatization section)
-
+## Технический стек
+- Языки: C#, Python, SQL, JavaScript (базовый)
+- Backend: ASP.NET Core, ASP.NET MVC, Web API, Entity Framework Core
+- Desktop: Windows Forms, WPF (на уровне понимания архитектуры)
+- Базы данных: MySQL, SQL Server
+- Инструменты: Git, Postman, Swagger/OpenAPI, Docker (базовое понимание)
+- Frontend: HTML, CSS, Bootstrap
+- Другое: Unity, FreeCAD
 ---
-
-## Education & Certifications
-
-- **Bachelor’s Degree** in Applied Mathematics and Computer Science — Nizhny Novgorod State Technical University (2020–2024)  
-- Frontend Start Course — itlogia.ru (2024)  
-- Software Development & Database Course — NSTU (2024)  
-- IT Product Development & Management Course — NSTU (2024)  
-- UX/UI Design Course — logomachine.ru (2024)  
-
+## Ключевые проекты
+## Векторный графический редактор (C#, WinForms) | Фев 2024 — Май 2024
+- Разработала ядро приложения с поддержкой отрисовки примитивов, слоев и операций над ними.
+- Реализовала алгоритмы выделения, перемещения и трансформации объектов.
+- Внедрила модульное тестирование (NUnit) для критически важных компонентов.
+  
+## Управление компьютером движением глаз (Python, OpenCV, MediaPipe) | Фев 2023 — Май 2024
+- Разработала и обучила модель распознавания направления взгляда с точностью до 92%.
+- Создала интуитивный UI на PyQt6 для калибровки и управления системой.
+- Реализовала эмуляцию кликов мыши и прокрутки с помощью жестов.
+  
+## Виртуальная лаборатория "Маятник Обербека" (C#, Unity) | Окт 2022 — Март 2023
+- Руководила разработкой команды из 3 человек.
+- Спроектировала физическую модель маятника и реализовала симуляцию экспериментов.
+- Подготовила публикацию для международной конференции.
 ---
-
-## Languages
-
-- Russian (Native)  
-- English (B1)
-
+## Образование
+- Новосибирский государственный технический университет (НГТУ)
+- Бакалавр прикладной математики и информатики | 2020 – 2024
 ---
-
-**Looking forward to new challenges, open collaborations, and continuous growth in a motivated team!**
-✌️ Feel free to connect and explore my projects!
+## Дополнительное образование:
+- Курс «Разработка ПО и БД», НГТУ (2024)
+- Курс «Разработка и управление IT-продуктами», НГТУ (2024) 
