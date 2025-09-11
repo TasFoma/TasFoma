@@ -1,11 +1,11 @@
 Анастасия Фомина
 C# / .NET Developer 👩‍💻
 ---
-Новосибирск, Россия
-📞 Телефон: +7 (996) 380-73-02
-✉️ Email: anastasiia.fomina.dev@mail.ru
-📱 Telegram: t.me/TasFoma
-💻 GitHub: github.com/TasFoma 
+- Новосибирск, Россия
+- 📞 Телефон: +7 (996) 380-73-02
+- ✉️ Email: anastasiia.fomina.dev@mail.ru
+- 📱 Telegram: t.me/TasFoma
+- 💻 GitHub: github.com/TasFoma 
 
 ---
 ## О себе
