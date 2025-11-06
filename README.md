@@ -22,7 +22,7 @@ C# Developer | МИС "Медицинский помощник" | Май 2024 �
 - Участвовала в полном цикле разработки: от сбора требований до тестирования и deployment.
 ---
 ## Технический стек
-- Языки: C#, Python, SQL, JavaScript (базовый)
+- Языки: C#, Python, SQL, JavaScript 
 - Backend: ASP.NET Core, ASP.NET MVC, Web API, Entity Framework Core
 - Desktop: Windows Forms, WPF (на уровне понимания архитектуры)
 - Базы данных: MySQL, SQL Server
