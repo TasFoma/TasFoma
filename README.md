@@ -19,10 +19,10 @@ C# Developer | МИС "Медицинский помощник" | май 2024 - 
 - Полный цикл: от требований до деплоя
 
 ## Навыки
-C# (коммерческий опыт), C++ (самообучение: C++11-20, auto, лямбды, умные указатели, move)
-ASP.NET Core, WinForms, Entity Framework Core, MySQL, SQL, JS/HTML/CSS
-Git, LeetCode, Codewars
-Python, OpenCV, Unity (проекты) базово
+- C# (коммерческий опыт), C++ (самообучение: C++11-20, auto, лямбды, умные указатели, move)
+- ASP.NET Core, WinForms, Entity Framework Core, MySQL, SQL, JS/HTML/CSS
+- Git, LeetCode, Codewars
+- Python, OpenCV, Unity (проекты) базово
 
 ## Проекты
 Векторный редактор (C#, WinForms) | фев-май 2024
